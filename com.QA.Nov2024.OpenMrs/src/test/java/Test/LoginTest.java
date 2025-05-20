@@ -17,7 +17,6 @@ import config.ConfigReader;
 import listener.TestListener;
 import page.LoginPage;
 
-//LoginTest Class
 @Listeners(TestListener.class)
 public class LoginTest extends BaseTest {
 	WebDriver driver;

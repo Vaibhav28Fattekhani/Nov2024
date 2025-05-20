@@ -18,7 +18,6 @@ import page.HomePage;
 import page.LoginPage;
 import util.RedaDataFromExcel;
 
-//Hometest Class
 public class HomeTest extends BaseTest {
 	WebDriver driver;
 	LoginPage login;
